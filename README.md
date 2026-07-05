@@ -40,4 +40,4 @@ designed for quick review and walkthrough.
 ## Author
 
 **Rishu Yadav**  
-B.Tech CSE, MMMUT Gorakhpur | Product Engineer, GetPost Labs
+B.Tech CSE, MMMUT Gorakhpur 
